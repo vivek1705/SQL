@@ -7,7 +7,6 @@ This project is a **College Database Management System** built using **MySQL**. 
 ## 📁 Project Structure
 
 * `CollegeDB.sql` — The main SQL file that contains all the necessary SQL commands to create and populate the database schema.
-* Optional frontend/backend files if you're integrating this with a website or application.
 
 ---
 
@@ -15,7 +14,6 @@ This project is a **College Database Management System** built using **MySQL**. 
 
 * **Database**: MySQL
 * **Tools**: MySQL Workbench / phpMyAdmin / XAMPP / WAMP
-* **Optional**: Integration with frontend using HTML, CSS, JS or backend using PHP, Node.js, etc.
 
 ---
 
@@ -48,7 +46,6 @@ This database contains the following key entities:
 * **Departments**: Information about various academic departments.
 * **Enrollment/Registration**: Linking students to courses.
 * **Results/Grades**: To store student performance records.
-* *(Add any other entities based on your SQL file content)*
 
 ---
 
